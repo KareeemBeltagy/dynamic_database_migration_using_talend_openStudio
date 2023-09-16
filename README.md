@@ -1,6 +1,6 @@
 # Dynamic ETL Job for Oracle to MySQL Migration Using Talend Open Studio
 
-Creating an ETL (Extract, Transform, Load) job that dynamically migrates tables from a source Oracle database to a target MySQL database using Talend Open Studio (TOS) can be achieved by designing a job with three subjobs, as you've described. Here's a step-by-step overview of how this ETL job would work:
+Creating an ETL (Extract, Transform, Load) job that dynamically migrates tables from a source Oracle database to a target MySQL database using Talend Open Studio (TOS) can be achieved by designing a job with three subjobs. Here's a step-by-step overview of how this ETL job would work:
 
 ## Subjob 1: Migrate Table Schema
 
